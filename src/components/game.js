@@ -190,7 +190,7 @@ export function initGame() {
 }
 
 export function copyCoupon() {
-  const couponCode = "RAOSFLAPPY";
+  const couponCode = "NACHOSFLAPPY";
   const textArea = document.createElement("textarea");
   textArea.value = couponCode;
   document.body.appendChild(textArea);
