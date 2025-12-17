@@ -326,7 +326,7 @@ function renderFooter() {
     <a href="https://wa.me/62881023491437?text=Halo%2C%20saya%20ingin%20membeli%20nachos%20mexilicous" target="_blank" class="mt-12 border-2 border-black px-10 py-4 rounded-full text-lg font-bold uppercase tracking-widest hover:bg-black hover:text-orange-500 transition-all duration-300 hover-trigger inline-block">Beli Online</a>
   </div>
   <footer class="absolute bottom-0 w-full p-6 flex justify-between items-end font-mono text-sm">
-    <div>&copy; 2024 Mexilicious.<br>Nikmatnya Raos.</div>
+    <div>&copy; 2025 Mexilicious.<br>Created by NINEPRENEUR.</div>
     <div class="flex gap-6">
       <a href="https://www.instagram.com/ninepreneur6/" class="hover:underline hover-trigger">Instagram</a>
       <a href="#" class="hover:underline hover-trigger">Shopee</a>
