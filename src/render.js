@@ -6,7 +6,7 @@ export function renderHTML() {
 
 <!-- Loader -->
 <div class="loader">
-  <div class="loader-text">RAOS</div>
+  <div class="loader-text">NINEPRENEUR</div>
   <div class="loader-overlay"></div>
 </div>
 
